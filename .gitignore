@@ -1,0 +1,15 @@
+# Dados do cliente
+dados/*.xlsx
+dados/*.csv
+!dados/README.md
+
+# Power BI
+*.pbix
+**/.pbi/
+**/cache.abf
+**/localSettings.json
+
+# Sistema
+.DS_Store
+Thumbs.db
+~$*
