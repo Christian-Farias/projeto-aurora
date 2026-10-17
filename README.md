@@ -7,7 +7,7 @@ Relatório Power BI (máx. 2 telas) para a Diretoria Comercial (Marina Teixeira,
 ## Links rápidos
 | O quê | Link |
 |---|---|
-| Quadro Kanban | **[COLE O LINK DO PROJECT]** |
+| Quadro Kanban | **https://github.com/users/Christian-Farias/projects/2** |
 | Arquivos (.pbix e planilhas) no Drive | **https://drive.google.com/drive/folders/1s9fCfpAZ6BhjEXru9G2TX1Hf-KZRCoZ4?usp=share_link** |
 | Tarefas (cards T01 a T10) | Aba **Issues** deste repositório |
 
