@@ -25,7 +25,7 @@ Regras completas em [docs/01-contexto-e-regras-de-negocio.md](docs/01-contexto-e
 | Membro 4 — UX/UI & Tela 1 | | |
 | Membro 5 — Dev BI & QA | | |
 
-**Quem cuida do repositório:** [NOME]
+**Quem cuida do repositório:** [Christian Farias]
 
 ## Onde fica cada coisa
 | O quê | Onde |
