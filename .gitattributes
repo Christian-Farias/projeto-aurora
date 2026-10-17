@@ -1,0 +1,6 @@
+* text=auto
+*.tmdl text eol=lf
+*.dax text eol=lf
+*.m text eol=lf
+*.pbix binary
+*.xlsx binary
